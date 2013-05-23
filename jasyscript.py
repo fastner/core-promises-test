@@ -84,4 +84,4 @@ def build():
 		outputManager.storeCompressed(classes, "{{prefix}}/script/%s-{{id}}.js" % config.get("name"), "new %s.Main;" % config.get("name"))
 		
 	node.generateLoader("build/app.js")
-
+	node.generatePackageJson(getPackageList(), "build/package.json")
