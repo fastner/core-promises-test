@@ -1,3 +1,8 @@
+/*
+ * Running Promises/A+ test suite against core promises implementation.
+ *
+ * Copyright (C) 2013 Sebastian Fastner
+ */
 core.Class("corepromisestest.Main", {
 	construct : function() {
 		var adapter = {
