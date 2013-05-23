@@ -1,0 +1,9 @@
+{
+  "name": "corepromisestest",
+  "description": "",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "promises-aplus-tests" : "*"
+  }
+}
