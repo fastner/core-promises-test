@@ -1,1 +1,4 @@
 .jasy
+external/
+source/script/
+source/app.js
