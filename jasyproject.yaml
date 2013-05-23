@@ -1,0 +1,4 @@
+name: corepromisestest
+requires:
+- source: https://github.com/sebastian-software/core.git
+- source: https://github.com/sebastian-software/jasy-node.git
